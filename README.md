@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sounderya VV</h1>
+<h1 align="center">Hi 👋, I'm Sounderya V V</h1>
 <h3 align="center">A passionate Robotics Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sounderya22&label=Profile%20views&color=0e75b6&style=flat" alt="sounderya22" /> </p>
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **ROS**
 
-- 👨‍💻 All of my projects are available at [Sounderya VV project](https://github.com/Sounderya22)
+- 👨‍💻 All of my projects are available at [https://github.com/Sounderya](https://github.com/Sounderya22)
 
 - 💬 Ask me about **ROS, Control System, Autonomous Navigation**
 

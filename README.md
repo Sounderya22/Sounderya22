@@ -20,8 +20,7 @@
 - 📫 How to reach me **edm19b055@iiitdm.ac.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1c_ZgmslFdb-6Se66AsSEMZx1zbyzLGsm/view?usp=sharing]
-  (https://drive.google.com/file/d/1c_ZgmslFdb-6Se66AsSEMZx1zbyzLGsm/view?usp=sharing)
-
+  
 - ⚡ Fun fact **Carefree ROS Developer.**
 
 <h3 align="left">Connect with me:</h3>

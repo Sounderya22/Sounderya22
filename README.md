@@ -11,17 +11,16 @@
 
 - 👯 I’m looking to collaborate on **Autonomous Robots**
 
-- 🤝 I’m looking for help with **Jobs in Robotics(ROS)**
+- 🤝 I’m looking for help with **ROS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sounderya22](https://github.com/Sounderya22)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/sounderya-venugopal/](https://www.linkedin.com/in/sounderya-venugopal/)
 
 - 💬 Ask me about **ROS, Control System, Autonomous Navigation**
 
 - 📫 How to reach me **edm19b055@iiitdm.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZObmnyUB8EpbYOVuCK1J8pGLjT_Zaxtc/view?usp=sharing](https://drive.google.com/file/d/1ZObmnyUB8EpbYOVuCK1J8pGLjT_Zaxtc/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1c_ZgmslFdb-6Se66AsSEMZx1zbyzLGsm/view?usp=sharing]
+- (https://drive.google.com/file/d/1c_ZgmslFdb-6Se66AsSEMZx1zbyzLGsm/view?usp=sharing)
 
 - ⚡ Fun fact **Carefree ROS Developer.**
 

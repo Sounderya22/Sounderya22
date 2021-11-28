@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **edm19b055@iiitdm.ac.in**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1c_ZgmslFdb-6Se66AsSEMZx1zbyzLGsm/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAExC5EZ0-w/OdRlTbbnlDJ-eI4B4XjkFQ/view?utm_content=DAExC5EZ0-w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
   
 - ⚡ Fun fact **Carefree ROS Developer.**
 

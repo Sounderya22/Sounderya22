@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Collaborative Robot Development Projects]()
 
-- 🌱 I’m currently learning ** Robotic Arm , Machine Learning, Visual Programming Language, ROS, Hardware Interfaces and Autonomous Navigation**
+- 🌱 I’m currently learning **Robotic Arm , Machine Learning, Visual Programming Language, ROS, Hardware Interfaces and Autonomous Navigation**
 
 - 👯 I’m looking to collaborate on **Autonomous Robots**
 

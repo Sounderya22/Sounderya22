@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sounderya22" alt="sounderya22" /></a> </p>
 
-- 🔭 I’m currently working on [Mars Rover Project](https://marsroversociety.netlify.app/)
+- 🔭 I’m currently working on [Collaborative Robot Development Projects]()
 
-- 🌱 I’m currently learning **ROS, Hardware Interfaces and Autonomous Navigation**
+- 🌱 I’m currently learning ** Robotic Arm , Machine Learning, Visual Programming Language, ROS, Hardware Interfaces and Autonomous Navigation**
 
 - 👯 I’m looking to collaborate on **Autonomous Robots**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sounderya](https://github.com/Sounderya22)
 
-- 💬 Ask me about **ROS, Control System, Autonomous Navigation**
+- 💬 Ask me about **ROS, Robotic Arm, Cobot Control System, Autonomous Navigation**
 
 - 📫 How to reach me **edm19b055@iiitdm.ac.in**
 

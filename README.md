@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sounderya22" alt="sounderya22" /></a> </p>
 
-- 🔭 I’m currently working on [Collaborative Robot Development Projects]() at [Addverb Technology Limited](www.addverb.com)
+- 🔭 I’m currently working on [Collaborative Robot Development Projects]() at [Addverb Technology Limited](https://addverb.com)
 
 - 🌱 I’m currently learning **Robotic Arm , Machine Learning, Visual Programming Language, ROS, Hardware Interfaces and Autonomous Navigation**
 

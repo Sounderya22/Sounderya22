@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **ROS, Robotic Arm, Cobots, Control System, Autonomous Navigation**
 
-- 📫 How to reach me **edm19b055@iiitdm.ac.in**
+- 📫 How to reach me **vvsounderya22@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://www.canva.com/design/DAExC5EZ0-w/OdRlTbbnlDJ-eI4B4XjkFQ/view?utm_content=DAExC5EZ0-w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
   

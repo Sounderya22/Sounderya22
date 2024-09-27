@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vvsounderya22@gmail.com**
   
-- ⚡ Fun fact **Carefree ROS Developer.**
+- ⚡ Fun fact: **Carefree ROS Developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

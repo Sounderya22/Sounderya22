@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sounderya </h1>
-<h3 align="center">A passionate Robotics Software Developer.</h3>
+<h3 align="center">Robotics Engineer | Robot Learning · Manipulation · Autonomous Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sounderya22&label=Profile%20views&color=0e75b6&style=flat" alt="sounderya22" /> </p>
 
@@ -7,13 +7,11 @@
 
 - 🔭 I am pursuing my Masters in Robotics from **University of Maryland!**
 
-- 🌱 I’m currently learning **Robotic Manipulation , ROS, Hardware Interfaces and Autonomous Navigation and Design Patterns**
+- 🌱 Building expertise in **robot learning, dexterous manipulation, ROS2, and motion planning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sounderya](https://github.com/Sounderya22)
 
 - 📫 How to reach me **vvsounderya22@gmail.com**
-  
-- ⚡ Fun fact: **Carefree ROS Developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
